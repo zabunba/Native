@@ -1,6 +1,3 @@
-
-
-
 const Button = ({id, name, value, style, onclick}) => {
     return (
         <input

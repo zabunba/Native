@@ -1,5 +1,3 @@
-
-
 const Image = ({id, name, style, source}) => {
 
     return(
@@ -8,7 +6,7 @@ const Image = ({id, name, style, source}) => {
             id={id}
             accessibilityLabel={name} 
             style={style}
-            source={source}
+            src={source}
         />
 
     )
