@@ -6,16 +6,16 @@ React Native components for ReactJS
 I created a bunch of components in React that have similar code execution and integration as the React Native components.
 Some of them are : 
 
-- *<Button>*
-- <FlatList>
-- <HeaderText>
-- <Image>
-- <NumberInput>
-- <Pressable>
-- <Text>
-- <TextInput>
-- <TouchableHighlight>
-- <View>
+- Button
+- FlatList
+- HeaderText
+- Image
+- NumberInput
+- Pressable
+- Text
+- TextInput
+- TouchableHighlight
+- View
 
 # React Style
 
