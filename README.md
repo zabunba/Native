@@ -16,6 +16,15 @@ Some of them are :
 - TextInput
 - TouchableHighlight
 - View
+- Carousel
+- CheckBox
+- Navbar
+- Notification
+- Picker
+- ProgressBar
+- RadioButton
+- ScrollView
+- Slider
 
 # React Style
 

@@ -1,3 +1,4 @@
+import React, { useState, useRef } from 'react';
 const TouchableHighlight = ({ id, name, style, text, onPressAction}) => {
 
   const handleMouseUp = () => {
