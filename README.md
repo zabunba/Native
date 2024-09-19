@@ -1,10 +1,9 @@
-# React-Native-for-ReactJS
-React Native components for ReactJS
+# Viz
+Viz is a library for React, that has some inspiration on some React Native and BootStrap components.
+Viz gives you the possibility to create something new, without the HTML source code and you can edit the style or the source code of every component.
+Viz is open source.
 
-# React Components 
-
-I created a bunch of components in React that have similar code execution and integration as the React Native components.
-Some of them are : 
+# Viz Components 
 
 - Button
 - FlatList
@@ -26,10 +25,9 @@ Some of them are :
 - ScrollView
 - Slider
 
-# React Style
+# Viz Style
 
-We can use styles in React as React Native *StyleSheet* approach.
-Here's an example :
+Here's a simple approach of using Viz StyleSheet : 
 
 ``` 
 const styles = StyleSheet.create({
@@ -56,6 +54,3 @@ const styles = StyleSheet.create({
 });
 ```
 
-# Why
-
-I was tired of writing my JavaScript Engine in HTML and CSS for the design so I decided to use React, but I found out that is not the same as React Native, so I created this custom tags for better.
